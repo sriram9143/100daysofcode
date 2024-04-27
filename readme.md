@@ -53,11 +53,5 @@ This bootcamp is just the springboard to your Python mastery. By the end, you'll
 
 **Let's embark on this thrilling adventure towards Python mastery together!**
 
-**Additional Tips:**
-
-* You can use Markdown formatting to create tables for project lists or detailed breakdowns of topics.
-* Consider adding badges (using services like https://shields.io/) for specific technologies or frameworks used in the projects. Replace the bracketed URL with the actual link when creating the badge.
-* Link to helpful external resources or tutorials as needed.
-
 **Support Contact:**
 * raise email to: hundreddaysofcodepython@gmail.com *
